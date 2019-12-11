@@ -1,0 +1,12 @@
+.blog {
+    font-family: 'Alata', sans-serif;
+    font-size: 15px;
+}
+
+.blog:link {
+    text-decoration: none;
+}
+
+.blog:hover {
+    font-weight: bold;
+}
